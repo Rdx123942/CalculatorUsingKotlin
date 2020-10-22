@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculatorUsingKotlin</string>
+    <string name="enter_first_value">Enter First Value</string>
+    <string name="enter_second_value">Enter Second Value</string>
+    <string name="plus">Plus</string>
+    <string name="sub">Sub</string>
+    <string name="mul">Mul</string>
+    <string name="div">Div</string>
+</resources>
